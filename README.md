@@ -2,6 +2,9 @@
 
 using vscode in google colab
 
+**Colab** notebook: &nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asifajrof/googlecolabXvscode/blob/main/files/googlecolabXvscode.ipynb)
+
+
 ## installation
 
 we need [`colabcode`](https://github.com/abhishekkrthakur/colabcode), but as of now, google colaboratory does not support the use of it. you will see a warning if you want to install `colabcode`.
