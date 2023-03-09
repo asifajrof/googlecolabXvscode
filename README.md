@@ -49,3 +49,8 @@ mv ngrok.yml ~/.ngrok2/ngrok.yml
 from colabcode import ColabCode
 ColabCode(port=1234, password="googlecolabXvscode", mount_drive=True)
 ```
+
+## video tutorial
+
+![googlecolabXvscode.gif](/imgs/googlecolabXvscode.gif)
+
